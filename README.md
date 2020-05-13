@@ -17,6 +17,8 @@ Puts cursor in the username field
 
 Hide; Other job, color options, paypal and bitcoin wording, until needed. 
 
+Credit card is selected as default
+
 Adds a cost total for selected activites
 
 Event Listeners:
@@ -24,7 +26,7 @@ Event Listeners:
     When someone selects OTHER job a box appears below to give detail
 
 - Colors:
-    When a theme is selected the colors for that them are displayed as options in the next box. Tomato is default when I heart JS is selected
+    When a theme is selected “Please select a T-shirt theme” if displayed in the colors choice box field. 
 
 - Activities:
     When someone selects an activity, they can't then choose one at a conlifting time, based on data-day-and-time matching. 
